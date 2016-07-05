@@ -41,3 +41,8 @@ planetDescription(planet, numberOfMoons: moons)
 planet = "Mars"
 moons = 2
 planetDescription(planet, numberOfMoons: moons)
+
+print ("hello")
+print(planetDescription) //prints out function.
+
+print ("hello")
